@@ -11,7 +11,10 @@
     "url": "https://github.com/Kolyal1912/tea-developmain.git"
   },
   "dependencies": {
-    "kolyal1912l": "1.0.0"
+    "kolyal1912l": "1.0.0",
+    "johnstarktest": "1.0.0",
+    "minigamelpacho": "1.0.0",
+    "prod2dice": "1.0.0"
   },
   "author": "",
   "license": "ISC",
